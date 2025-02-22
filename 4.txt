@@ -1,0 +1,28 @@
+возраст, номер телефона, фио, дата рождения, телеграмм, область, район, вконтакте, почта, одноклассники, тикток, ватсап, оператор, айпи
+
+# Base by gotooffi.t.me
+# Media TrialPfps.t.me
+-------------------------------------------------------------------
+
+Nothing, +79045853504, Пестриков Вадим Сергеевич, Nothing, @lordwawilon, Омская область, Nothing, Nothing, nikitasidorenko.04@mail.ru, Nothing, Nothing, Nothing, Nothing, Nothing, 2.17.144.16
+Nothing, +79509531949, Сидоренко Никита Андреевич, Nothing, @advwawilon, Омская область, Nothing, Nothing, lordwawilon@ww.contact, Nothing, Nothing, Nothing, Nothing, Nothing, 2.17.144.16
+Nothing, +79177538985, Нижельская Дарья Сергеевна, Nothing, @katantik, Республика Башкортостан, Калининский район, Nothing, ekaterinanizelskaa30019@gmail.com, Nothing, Nothing, Nothing, Nothing, Nothing, Nothing
+Nothing, +79160407884, Борисов Матвей Дмитриевич, Nothing, @criminalteddy, Nothing, Nothing, Nothing, borisovmatweika@yandex.ru, Nothing, Nothing, Nothing, Nothing, Nothing
+Nothing, +79237269012, Егоров Виктор Андреевич, 27.02.2007, @desaviy | @zoxdev, Курск, Краснощевский район, vk.com/id645636877, wicktor2007@mail.ru, ok.ru/profile/524556693899, www.tiktok.com/@6936426817905574913, wa.me/79237269012, Мегафон, 83.234.120.76
+Nothing, +79272875636, Матвей, Nothing, @aimtap, Россия/Пензенская область, Мытищи, Nothing, matvejmaksakov387@gmail.com, Nothing, Nothing, Nothing, Nothing, ПАО МегаФон, 128.204.79.51
+16 лет, +79090047604, Ильин Гаврил Борисович, 15.07.2008, @OsintSociolog, Nothing, Nothing, Nothing, Nothing, Nothing, Nothing, Nothing, Nothing, Nothing
+Nothing, +79940650313, Данилю, Nothing, @killmanes | t.me/+79940650313, Nothing, Nothing, Nothing, ridna718@gmail.com, ridna718@gmail.com, Nothing, Nothing, wa.me/+79940650313, Nothing, Nothing
+Nothing, Виртуальный: +380684023600 | Валидный: +79134973608, Даниил Молюстов Евгеньевич, Nothing, @oexec, Красноярский Край, Nothing, vk.com/id832756581, tixodyra@gmail.com | dyratixo@gmail.com | 89134973608@temp.ru | mamamiaaa798@gmail.com, ok.ru/profile/586700073479, Nothing, Nothing, МТС, 91.186.109.34
+Nothing, +79097647896, Романова Екатерина Максимовна, Nothing, @nefera_shop, Ставропольский край, Ставрополь, Nothing, Nothing, Nothing, Nothing, Nothing, Nothing, Nothing
+@crimeamerica, +79779156335, Сергей, Шакуров, Алексеевич, 08.04.1998, 26, sergey.karinin@mail.ru | lpz8s@vmani.com | 89779156335@temp.ru, 6418968946, 06.07.2018, 30/2, улица Костычева, 6-й посёлок ГЭС, Свердловский административный округ, Иркутск, городской округ Иркутск, Иркутская область, Сибирский федеральный округ, 664054, Россия, 82.202.165.96, Бакуров Алексей
+26, +79779156335, Шакуров Сергей Алексеевич, 08.04.1998, Nothing, Иркутская, Свердловский административный округ, Nothing, sergey.karinin@mail.ru, Nothing, Nothing, Nothing, Nothing, Nothing, Nothing
+16, +79512355362, Иванов Сергей Алексеевич, 15.07.2007, Nothing, Челябинская область, Челябинск, Nothing, Nothing, Nothing, Nothing, Nothing, Nothing, Nothing, Tele2, Nothing
+13, +79872394560, Муртазина Анастасия Витальевна, 24.02.2011, Nothing, Республика Татарстан / Казань, vk.com/id460015750, nastia240211@yandex.ru, Nothing, Nothing, Nothing, МТС, Nothing
+
+
+
+
+
+
+
+
